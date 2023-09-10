@@ -15,7 +15,6 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.6.4",
-    "nodemon": "^2.0.4",
     "supertest": "^6.3.3"
   },
   "dependencies": {
